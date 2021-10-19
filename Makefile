@@ -1,5 +1,4 @@
 GOPATH:=$(shell go env GOPATH)
-SDK_ROOT:="../../micro-sdks"
 
 .PHONY: init
 # init env
